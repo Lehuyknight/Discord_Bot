@@ -1,0 +1,1 @@
+Ngồi chán quá chả có gì làm, nghịch làm con bot vậy.
