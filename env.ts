@@ -32,5 +32,6 @@ export default Env.rules({
   GURIKO_NOTI_CHANNEL_ID: Env.schema.string(),
   GURIKO_LEAK_CHANNEL_ID: Env.schema.string(),
   GURIKO_HOW_TO_CHANNEL_ID: Env.schema.string(),
-  GURIKO_CUONG_CHANNEL_ID: Env.schema.string()
+  GURIKO_CUONG_CHANNEL_ID: Env.schema.string(),
+  GURIKO_BOT_CHANNEL_ID: Env.schema.string()
 })
